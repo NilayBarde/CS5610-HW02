@@ -1,0 +1,49 @@
+body {
+    background-color: gray;
+}
+
+#name {
+    text-align: center;
+}
+
+p {
+    font-size: 30px;
+}
+
+#note {
+    text-align: center;
+    font-size: 15px;
+}
+
+#fox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#redf {
+    color: red;
+}
+
+#blueo {
+    color: blue;
+}
+
+#greenx {
+    color: green;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,
+td {
+    font-size: 30px;
+    border: 0.5px solid;
+    padding: 10px;
+}

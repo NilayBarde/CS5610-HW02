@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th,
+td {
+    font-size: 30px;
+    border: 0.5px solid;
+    padding: 10px;
+}
+
+#num td:hover {
+    background-color: gray;
+}
+
+#num {
+    border: 0.5px solid;
+    margin-top: 50px;
+}
+
+#output {
+    text-align: right;
+    border: 2px solid;
+    height: 60px;
+    width: auto;
+}
+
+#outline {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

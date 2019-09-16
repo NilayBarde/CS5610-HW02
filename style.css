@@ -1,0 +1,14 @@
+#output {
+    text-align: right;
+    border: 2px solid;
+    padding: 20px;
+}
+
+#outline {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#name {
+    text-align: center;
+}
